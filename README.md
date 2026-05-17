@@ -68,7 +68,6 @@ I am a multidisciplinary builder who has been self-taught since age 8. Over the 
 ## 📫 Connect With Me
 - 📧 **Email:** [priyanktiwari434@gmail.com](mailto:priyanktiwari434@gmail.com)
 - 🌐 **Portfolio:** [hansraj-dev.vercel.app](https://hansraj-dev.vercel.app/)
-- 🐦 **Twitter/X:** [@HansrajTiwari_](https://twitter.com/HansrajTiwari_)
 - 💼 **LinkedIn:** [Hansraj Tiwari](https://linkedin.com/in/hansraj-tiwari)
 
 *"Building the future, one block at a time."*
