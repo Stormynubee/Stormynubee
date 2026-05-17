@@ -11,7 +11,7 @@
 I am a multidisciplinary builder who has been self-taught since age 8. Over the last **9+ years**, I’ve evolved from a curious kid into a System Architect capable of bridging the gap between high-performance software, hardware prototyping, and professional creative design.
 
 - 🛠️ **Building Systems:** From AI-powered operating systems to ESP32-based hardware for accessibility.
-- 🎓 **Education:** Currently in Class XI (Science/PCM) at PM SHRI Kendriya Vidyalaya.
+- 🎓 **Education:** Currently in Class XII (Science/PCM) at PM SHRI Kendriya Vidyalaya.
 - 🏢 **Entrepreneurship:** Founder of **AceZen**, a student-led tech studio.
 - 🌍 **Community:** Managed and designed visual identity for communities of **110,000+ members**.
 
