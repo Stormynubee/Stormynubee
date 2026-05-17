@@ -19,7 +19,7 @@ I am a multidisciplinary builder who has been self-taught since age 8. Over the 
 
 ## 🏆 National Recognition & Awards
 - 🥇 **IEEE Young Engineer Excellence Award (2025):** Awarded during INDICON-2025 at IIIT Bangalore.
-- 🛡️ **Smart India Hackathon (SIH) 2024:** Grand Finalist (Hardware Edition).
+- 🛡️ **Smart India Hackathon (SIH) 2024:** Grand Finalist.
 - 🧬 **2x NCSC National Participant:** Represented my region twice in the National Children's Science Congress.
 - 🏅 **RSBVP 1st Position:** Cluster Level winner in Emerging Technologies.
 - 🎓 **Harvard CS50x Certified:** Successfully completed the rigorous computer science foundation.
