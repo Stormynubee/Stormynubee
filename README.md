@@ -32,9 +32,9 @@ I am a multidisciplinary builder who has been self-taught since age 8. Over the 
 | :--- | :--- | :--- |
 | **[UMANG OS](https://umangos.vercel.app)** | React, CV, Python | AI Emotion Detection OS with affective computing & physical desk assistant. |
 | **[Focus OS](https://focuso-main.vercel.app)** | Next.js, Framer Motion | Cat-themed productivity suite with Spotify sync & distraction tracking. |
-| **[BizCatch](https://github.com/Stormynubee/BizCatch-Showcase)** | Next.js 16, OSM | High-performance lead generation engine using OpenStreetMap data. |
+| **[BizCatcher](https://github.com/Stormynubee/BizCatcher)** | Next.js 16, OSM | High-performance lead generation engine using OpenStreetMap data. |
 | **Smart Gesture Glove** | ESP32, Flex Sensors | IoT wearable that translates sign language gestures into speech. |
-| **[MineHealth](https://github.com/Stormynubee/MineHealth-Showcase)** | FastAPI, MongoDB | Gamified Life OS dashboard for health and JEE preparation. |
+| **[MineHealth](https://github.com/Stormynubee/MineHealthftw)** | FastAPI, MongoDB | Gamified Life OS dashboard for health and JEE preparation. |
 
 ---
 
