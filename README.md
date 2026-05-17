@@ -67,9 +67,15 @@ I am a multidisciplinary builder who has been self-taught since age 8. Over the 
 
 ---
 
-## 📊 GitHub Stats
-![Hansraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stormynubee&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stormynubee&layout=compact&theme=tokyonight)
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stormynubee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hansraj's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stormynubee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stormynubee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
