@@ -38,44 +38,30 @@ I am a multidisciplinary builder who has been self-taught since age 8. Over the 
 
 ---
 
-## 💻 Technical Arsenal
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4B0082?style=flat)
-
-### **Frontend & Backend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### **Creative (9 Years Exp)**
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) 
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat&logo=davinciresolve&logoColor=white) 
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
-
-### **Hardware & IoT**
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
-
----
-
-## 📊 GitHub Insights
+## 🕹️ System Architect Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stormynubee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hansraj's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stormynubee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stormynubee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Stormynubee&theme=tokyonight&no-bg=true&column=4&margin-w=15" alt="Trophies" />
 </p>
+
+### 🖥️ Core System Modules
+```json
+{
+  "status": "Ready",
+  "archetype": "System Architect",
+  "experience": "9.4 Years",
+  "specialties": ["Edge AI", "IoT Hardware", "High-End UX"],
+  "mission": "Bridging software, hardware, and the human soul."
+}
+```
+
+### 🛠️ Hardware & Software Synergy
+| Module | Proficiency | Description |
+| :--- | :--- | :--- |
+| **Neural Engines** | `[▓▓▓▓▓▓▓▓▓░]` 90% | TensorFlow.js, MediaPipe, Affective Computing |
+| **Edge Connectivity** | `[▓▓▓▓▓▓▓▓▓▓]` 100% | ESP32, Arduino, Raspberry Pi, SystemVerilog |
+| **Creative Forge** | `[▓▓▓▓▓▓▓▓▓░]` 95% | DaVinci Resolve, Photoshop, Motion Graphics |
+| **Web Orchestration** | `[▓▓▓▓▓▓▓▓▓▓]` 100% | Next.js, React, FastAPI, PostgreSQL |
 
 ---
 
