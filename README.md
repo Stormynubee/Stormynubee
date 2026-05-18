@@ -7,8 +7,8 @@
 
 ## ⚡ 9-Year Journey & Recognition
 **Multidisciplinary builder since age 8.** Bridging high-performance software, hardware, and creative design.
-- 🎓 **XII (PCM) @ PM SHRI KV** | 🧬 **2x NCSC National Participant** | 🛡️ **SIH 2025 Finalist**
-- 🥇 **IEEE Young Engineer Excellence Award (2025)** @ IIIT Bangalore | 🏅 **RSBVP 1st (Emerging Tech)**
+- 🎓 **XII (PCM) @ PM SHRI KV Dharamgarh** | 🧬 **2x NCSC National Participant** | 🛡️ **SIH 2025 Finalist**
+- 🥇 **IEEE Young Engineer Excellence Award (2025)** @ IIIT Bangalore | 🏅 **RSBVP 1st (Nationals)**
 - 🏢 **Founder of AceZen** | 🌍 **Managed 110k+ Member Communities** | 🎓 **Harvard CS50x Certified**
 
 ---
