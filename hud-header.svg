@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="100%">
+  <defs>
+    <!-- Neon Glow Filters -->
+    <filter id="blue-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="gold-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <!-- Linear Gradients -->
+    <linearGradient id="blue-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0A84FF" stop-opacity="0.2" />
+    </linearGradient>
+    
+    <style>
+      .hud-text-bold {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+        font-weight: 800;
+        fill: #00E5FF;
+        letter-spacing: 4px;
+      }
+      .hud-text-sub {
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        fill: #FFB300;
+        letter-spacing: 2px;
+        font-size: 11px;
+      }
+      .hud-label {
+        font-family: 'Courier New', Courier, monospace;
+        fill: #8F9CAE;
+        font-size: 10px;
+        letter-spacing: 1px;
+      }
+      .hud-value {
+        font-family: 'Courier New', Courier, monospace;
+        fill: #FFFFFF;
+        font-size: 10px;
+        font-weight: bold;
+      }
+      
+      /* Scanning Line Animation */
+      @keyframes scan {
+        0% { transform: translateY(0px); opacity: 0.3; }
+        50% { opacity: 0.8; }
+        100% { transform: translateY(240px); opacity: 0.3; }
+      }
+      .scanning-line {
+        animation: scan 6s linear infinite;
+      }
+      
+      /* Grid Pulse Animation */
+      @keyframes pulse {
+        0%, 100% { opacity: 0.15; }
+        50% { opacity: 0.35; }
+      }
+      .hud-grid {
+        animation: pulse 4s ease-in-out infinite;
+      }
+
+      /* Core Rotator Animation */
+      @keyframes rotate-clockwise {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      .rotator {
+        transform-origin: 100px 120px;
+        animation: rotate-clockwise 20s linear infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Deep space back-panel -->
+  <rect width="800" height="240" fill="#0D1117" rx="8" />
+  
+  <!-- Futuristic HUD Grid Background -->
+  <g class="hud-grid" stroke="#00E5FF" stroke-width="0.5" opacity="0.15">
+    <path d="M 0,40 L 800,40 M 0,80 L 800,80 M 0,120 L 800,120 M 0,160 L 800,160 M 0,200 L 800,200" />
+    <path d="M 80,0 L 80,240 M 160,0 L 160,240 M 240,0 L 240,240 M 320,0 L 320,240 M 400,0 L 400,240 M 480,0 L 480,240 M 560,0 L 560,240 M 640,0 L 640,240 M 720,0 L 720,240" />
+  </g>
+
+  <!-- Scanning Overlay -->
+  <line class="scanning-line" x1="0" y1="0" x2="800" y2="0" stroke="#00E5FF" stroke-width="1.5" opacity="0.5" filter="url(#blue-glow)" />
+
+  <!-- Outer HUD Frame borders -->
+  <rect x="10" y="10" width="780" height="220" fill="none" stroke="#00E5FF" stroke-width="1" opacity="0.2" rx="4" />
+  <path d="M 8,30 L 8,8 L 30,8 M 770,8 L 792,8 L 792,30 M 792,210 L 792,232 L 770,232 M 30,232 L 8,232 L 8,210" fill="none" stroke="#00E5FF" stroke-width="2" filter="url(#blue-glow)" />
+
+  <!-- Interactive Left Tech Target System (Rotator) -->
+  <g>
+    <!-- Outer dashed compass circle -->
+    <circle cx="100" cy="120" r="65" fill="none" stroke="#00E5FF" stroke-width="1" stroke-dasharray="4 6" opacity="0.3" />
+    <circle cx="100" cy="120" r="55" fill="none" stroke="#FFB300" stroke-width="0.75" stroke-dasharray="12 4" opacity="0.5" class="rotator" />
+    <circle cx="100" cy="120" r="35" fill="none" stroke="#00E5FF" stroke-width="1" opacity="0.4" />
+    <!-- Reticle crosshair -->
+    <path d="M 100,50 L 100,75 M 100,165 L 100,190 M 30,120 L 55,120 M 145,120 L 170,120" fill="none" stroke="#00E5FF" stroke-width="1" opacity="0.6" />
+    <circle cx="100" cy="120" r="4" fill="#FFB300" filter="url(#gold-glow)" />
+  </g>
+
+  <!-- Right Terminal Dashboard Metadata Grid -->
+  <g transform="translate(490, 30)">
+    <!-- HUD Box -->
+    <path d="M 0,0 L 280,0 L 280,160 L 20,160 L 0,140 Z" fill="#090d16" stroke="#00E5FF" stroke-width="1" opacity="0.8" filter="url(#blue-glow)" />
+    
+    <!-- System specs lines -->
+    <g transform="translate(15, 25)">
+      <text x="0" y="0" class="hud-label">COGNITIVE ARCHETYPE:</text>
+      <text x="140" y="0" class="hud-value" fill="#00E5FF">DIGITAL REALITY ARCHITECT</text>
+      
+      <text x="0" y="20" class="hud-label">CORE MISSION:</text>
+      <text x="140" y="20" class="hud-value">BRIDGING CODE &amp; SOUL</text>
+      
+      <text x="0" y="40" class="hud-label">OPERATIVE LEVEL:</text>
+      <text x="140" y="40" class="hud-value" fill="#FFB300">FOUNDER @ ACEZEN STUDIO</text>
+      
+      <text x="0" y="60" class="hud-label">ACTIVE SECTOR:</text>
+      <text x="140" y="60" class="hud-value">FULL-STACK • IoT • AI</text>
+      
+      <text x="0" y="80" class="hud-label">EXP LEVEL:</text>
+      <text x="140" y="80" class="hud-value">9.4 CYCLES (YEARS)</text>
+
+      <text x="0" y="100" class="hud-label">SYSTEM STATE:</text>
+      <text x="140" y="100" class="hud-value" fill="#10B981">ONLINE // SECURE</text>
+
+      <!-- Digital graphic slider/bar inside terminal -->
+      <path d="M 0,118 L 250,118" stroke="#2D3748" stroke-width="4" stroke-linecap="round" />
+      <path d="M 0,118 L 225,118" stroke="#00E5FF" stroke-width="4" stroke-linecap="round" filter="url(#blue-glow)" />
+      <circle cx="225" cy="118" r="4" fill="#FFFFFF" />
+      
+      <text x="0" y="132" font-family="Courier New" font-size="8" fill="#8F9CAE">NODE SYNC INTEGRITY: 90% SECURE</text>
+    </g>
+  </g>
+
+  <!-- Central Title Branding & Text -->
+  <g transform="translate(195, 65)">
+    <!-- Decorative side brackets for text -->
+    <path d="M -10,10 L -20,10 L -20,65 L -10,65" fill="none" stroke="#00E5FF" stroke-width="1.5" opacity="0.6" />
+    <path d="M 275,10 L 285,10 L 285,65 L 275,65" fill="none" stroke="#00E5FF" stroke-width="1.5" opacity="0.6" />
+
+    <text x="0" y="28" font-size="21" class="hud-text-bold" filter="url(#blue-glow)">HANSRAJ TIWARI</text>
+    <text x="0" y="52" font-size="11" class="hud-text-sub" filter="url(#gold-glow)">SYSTEM &amp; DIGITAL REALITY ARCHITECT</text>
+    <text x="0" y="70" font-family="Courier New" font-size="9" fill="#8F9CAE" letter-spacing="1">LATENCY: 12ms | SECTOR: EARTH/ASIA/IN</text>
+  </g>
+
+  <!-- Footer Decorative Lines -->
+  <path d="M 195,175 L 460,175" stroke="url(#blue-grad)" stroke-width="1" />
+  <circle cx="327" cy="175" r="3" fill="#FFB300" filter="url(#gold-glow)" />
+</svg>
