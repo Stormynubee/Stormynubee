@@ -72,10 +72,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Gesture Glove</h3>
-      <p><i>ESP32, Flex Sensors, IoT</i></p>
-      <p>A physical smart IoT wearable. Captures raw sign language hand signals via flex sensors and accelerometer chips, translating them into synthesised speech in real-time.</p>
-      <b>Active Hardware R&amp;D</b>
+      <h3>🏦 RetainIQ</h3>
+      <p><i>LightGBM, CatBoost, Python, scikit-learn</i></p>
+      <p>Cost-aware banking churn retention engine for ChurnZero 26 (IIT Kharagpur). Stacked ensemble with PR-AUC 0.9999, rupee-optimal thresholding (~69% cost savings), T-learner uplift segmentation, and demographic fairness audit.</p>
+      <a href="https://github.com/Stormynubee/retainiq-churnzero-26"><b>Codebase ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>✨ AceZen Portal</h3>
@@ -83,6 +83,15 @@
       <p>The cinematic, immersive home for AceZen Studio. Showcases custom interactive shaders, dynamic grain-filter mood override engines, and magnetic light-trail interactions.</p>
       <a href="https://acezen.in/"><b>Live Platform ↗</b></a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Gesture Glove</h3>
+      <p><i>ESP32, Flex Sensors, IoT</i></p>
+      <p>A physical smart IoT wearable. Captures raw sign language hand signals via flex sensors and accelerometer chips, translating them into synthesised speech in real-time.</p>
+      <b>Active Hardware R&amp;D</b>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
