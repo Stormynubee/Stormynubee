@@ -34,22 +34,16 @@
       <h3>🛡️ NovaDrive</h3>
       <p><i>Expo SDK 54, React Native, TypeScript, SQLite</i></p>
       <p>Offline-first Golden Hour co-pilot for <b>IIT Madras RoadSoS 2026</b> (Team Vortex, MoRTH). GovTech mobile HUD: Plan Corridor routing, crash/voice safety monitoring, START triage FSM, trauma-tier SQLite routing, Golden Hour Packet + QR bystander relay — full airplane-mode demo path.</p>
-      <a href="https://roadsafetyhackathon-six.vercel.app"><b>Live Demo ↗</b></a> · <a href="https://github.com/Stormynubee/novadrive/tree/master"><b>Codebase (master) ↗</b></a>
+      <a href="https://github.com/Stormynubee/novadrive/tree/master"><b>Codebase ↗</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📊 NovaDrive — repo map</h3>
-      <p><i>GitHub Actions · Jest (32 tests) · monorepo</i></p>
-      <p>Primary app: <code>novadrive-mobile/</code> on branch <a href="https://github.com/Stormynubee/novadrive/tree/master"><b>master</b></a>. Drive flow: Home → Trip → calibration → live SOS HUD → complete. Docs: <a href="https://github.com/Stormynubee/novadrive/blob/master/CHANGELOG.md">CHANGELOG</a>, <a href="https://github.com/Stormynubee/novadrive/blob/master/novadrive-mobile/docs/DEVICE_SMOKE_MATRIX.md">smoke matrix</a>.</p>
-      <a href="https://github.com/Stormynubee/novadrive/actions/workflows/ci.yml"><b>CI status ↗</b></a>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🌌 UMANG OS</h3>
       <p><i>React, OpenCV, Python</i></p>
       <p>AI-powered Operating System featuring Computer Vision, Affective Computing, and a physical smart desk assistant that adapts to user emotions in real time.</p>
       <a href="https://umangos.vercel.app"><b>Live Demo ↗</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🐈 Focus OS</h3>
       <p><i>Next.js, Framer Motion, Tailwind</i></p>
