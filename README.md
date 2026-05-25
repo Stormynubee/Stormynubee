@@ -50,43 +50,43 @@
       <p>A high-fidelity cat-themed focus and accountability suite designed for couples. Enables non-surveillance real-time tracking, custom streaks, and smart dashboard monitors.</p>
       <a href="https://focuso-main.vercel.app"><b>Live Demo ↗</b></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📈 BizCatcher</h3>
       <p><i>Next.js 16, OSM API, Overpass</i></p>
       <p>High-performance business discovery and lead-generation engine. Features a dark-themed interactive map dashboard, advanced tag queries, and native CSV export streams.</p>
       <a href="https://github.com/Stormynubee/BizCatcher"><b>Codebase ↗</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧠 MineHealth (Mind &amp; Life OS)</h3>
       <p><i>React, FastAPI, MongoDB, Gemini AI</i></p>
       <p>A Minecraft-themed gamified mental health and productivity suite. Integrates local symptom tracking, secure journals, JEE study schedules, and an interactive Blocky AI buddy.</p>
       <a href="https://github.com/Stormynubee/MineHealth-Showcase"><b>Codebase ↗</b></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏦 RetainIQ</h3>
       <p><i>LightGBM, CatBoost, Python, scikit-learn</i></p>
       <p>Cost-aware banking churn retention engine for ChurnZero 26 (IIT Kharagpur). Stacked ensemble with PR-AUC 0.9999, rupee-optimal thresholding (~69% cost savings), T-learner uplift segmentation, and demographic fairness audit.</p>
       <a href="https://github.com/Stormynubee/retainiq-churnzero-26"><b>Codebase ↗</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌿🖐️ Psoriasis Companion (with Aether Hands)</h3>
       <p><i>React 19, TypeScript, MediaPipe, Dexie.js (IndexedDB), PWA</i></p>
       <p>A privacy-first, offline-capable Progressive Web App (PWA) designed to track chronic psoriasis, now integrated with Aether Hands' touchless computer vision controls. Allows individuals with severe joint pain, dactylitis, or cracked skin to navigate and log flare-ups completely hands-free via mid-air gestures and dwell-clicking.</p>
       <a href="https://github.com/Stormynubee/psoriasis-companion"><b>Codebase ↗</b></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🤖 Gesture Glove</h3>
       <p><i>ESP32, Flex Sensors, IoT</i></p>
       <p>A physical smart IoT wearable. Captures raw sign language hand signals via flex sensors and accelerometer chips, translating them into synthesised speech in real-time.</p>
       <b>Active Hardware R&amp;D</b>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
       <h3>✨ AceZen Portal</h3>
       <p><i>Next.js, Tailwind CSS, Framer Motion</i></p>
       <p>The cinematic, immersive home for AceZen Studio. Showcases custom interactive shaders, dynamic grain-filter mood override engines, and magnetic light-trail interactions.</p>
