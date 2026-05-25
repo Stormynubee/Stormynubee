@@ -22,12 +22,27 @@
 > * 🏢 **Founder & Creative Director of AceZen Studio** — a cinematic digital agency.
 > * 🌍 **Managed 110k+ Member Online Communities** across design and tech spaces.
 > * 🎓 **Harvard CS50x Certified** in core Computer Science principles.
+> * 🛣️ **IIT Madras Road Safety Hackathon 2026 (RoadSoS)** — NovaDrive, Team Vortex.
 
 ---
 
 ## 🚀 Featured Sandbox Projects
 
 <table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ NovaDrive</h3>
+      <p><i>Expo SDK 54, React Native, TypeScript, SQLite</i></p>
+      <p>Offline-first Golden Hour co-pilot for <b>IIT Madras RoadSoS 2026</b> (Team Vortex, MoRTH). GovTech mobile HUD: Plan Corridor routing, crash/voice safety monitoring, START triage FSM, trauma-tier SQLite routing, Golden Hour Packet + QR bystander relay — full airplane-mode demo path.</p>
+      <a href="https://roadsafetyhackathon-six.vercel.app"><b>Live Demo ↗</b></a> · <a href="https://github.com/Stormynubee/novadrive/tree/master"><b>Codebase (master) ↗</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 NovaDrive — repo map</h3>
+      <p><i>GitHub Actions · Jest (32 tests) · monorepo</i></p>
+      <p>Primary app: <code>novadrive-mobile/</code> on branch <a href="https://github.com/Stormynubee/novadrive/tree/master"><b>master</b></a>. Drive flow: Home → Trip → calibration → live SOS HUD → complete. Docs: <a href="https://github.com/Stormynubee/novadrive/blob/master/CHANGELOG.md">CHANGELOG</a>, <a href="https://github.com/Stormynubee/novadrive/blob/master/novadrive-mobile/docs/DEVICE_SMOKE_MATRIX.md">smoke matrix</a>.</p>
+      <a href="https://github.com/Stormynubee/novadrive/actions/workflows/ci.yml"><b>CI status ↗</b></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌌 UMANG OS</h3>
