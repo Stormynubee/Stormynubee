@@ -22,7 +22,7 @@
 > * 🏢 **Founder & Creative Director of AceZen Studio** — a cinematic digital agency.
 > * 🌍 **Managed 110k+ Member Online Communities** across design and tech spaces.
 > * 🎓 **Harvard CS50x Certified** in core Computer Science principles.
-> * 🛣️ **IIT Madras Road Safety Hackathon 2026 (RoadSoS)** — NovaDrive, Team Vortex.
+> * 🛣️ **IIT Madras Road Safety Hackathon 2026 (RoadSoS)** — NovaDrive, Team NovaDrive.
 
 ---
 
@@ -33,7 +33,7 @@
     <td width="50%" valign="top">
       <h3>🛡️ NovaDrive</h3>
       <p><i>Expo SDK 54, React Native, TypeScript, SQLite</i></p>
-      <p>Offline-first Golden Hour co-pilot for <b>IIT Madras RoadSoS 2026</b> (Team Vortex, MoRTH). GovTech mobile HUD: Plan Corridor routing, crash/voice safety monitoring, START triage FSM, trauma-tier SQLite routing, Golden Hour Packet + QR bystander relay — full airplane-mode demo path.</p>
+      <p>Offline-first Golden Hour co-pilot for <b>IIT Madras RoadSoS 2026</b> (Team NovaDrive, MoRTH). GovTech mobile HUD: Plan Corridor routing, crash/voice safety monitoring, START triage FSM, trauma-tier SQLite routing, Golden Hour Packet + QR bystander relay — full airplane-mode demo path.</p>
       <a href="https://github.com/Stormynubee/novadrive/tree/master"><b>Codebase ↗</b></a>
     </td>
     <td width="50%" valign="top">
