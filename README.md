@@ -34,7 +34,7 @@
       <h3>🛡️ NovaDrive</h3>
       <p><i>Expo SDK 54, React Native, TypeScript, SQLite</i></p>
       <p>Offline-first Golden Hour co-pilot for <b>IIT Madras RoadSoS 2026</b> (Team NovaDrive, MoRTH). GovTech mobile HUD: Plan Corridor routing, crash/voice safety monitoring, START triage FSM, trauma-tier SQLite routing, Golden Hour Packet + QR bystander relay — full airplane-mode demo path.</p>
-      <a href="https://github.com/Stormynubee/novadrive/tree/master"><b>Codebase ↗</b></a>
+      <a href="https://github.com/Stormynubee/novadrive/tree/master"><b>Codebase ↗</b></a> &nbsp;|&nbsp; <a href="https://drive.google.com/drive/folders/15TaAJGIMtxYrN6eIPGyIJZqyhIHqSmjQ"><b>Demo & Documents ↗</b></a> &nbsp;|&nbsp; <a href="https://drive.google.com/file/d/10k0xtmzZXehshu93oddi1c_znsuy_eti/view?usp=sharing"><b>Official Demo Video ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌌 UMANG OS</h3>
