@@ -15,7 +15,6 @@
 
 > [!NOTE]
 > ### 🏆 Key Accolades & Accolades
-> * 🥇 **IEEE Young Engineer Excellence Award (2025)** @ IIIT Bangalore.
 > * 🛡️ **Smart India Hackathon (SIH 2025) Finalist** in Advanced Engineering.
 > * 🧬 **2x National Children's Science Congress (NCSC)** National Participant.
 > * 🏅 **RSBVP 1st Place (Nationals)** representing state-level innovation.
