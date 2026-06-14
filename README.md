@@ -1,20 +1,41 @@
 <p align="center">
-  <img src="hud-header.svg" width="800" alt="Hansraj Tiwari — HUD System Architect Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hansraj%20Tiwari&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Founder%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20IoT%20%E2%80%A2%20Creative%20Director&descAlignY=62&descSize=16&descColor=a78bfa&animation=fadeIn" alt="Hansraj Tiwari" />
 </p>
 
 <p align="center">
-  <a href="https://hansraj-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/hansraj-tiwari"><img src="https://img.shields.io/badge/LinkedIn-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://acezen.in/"><img src="https://img.shields.io/badge/AceZen.in-FFB300?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Building+at+the+intersection+of+code+%26+soul.;Founder+%40+AceZen+Studio.;Full-Stack+%E2%80%A2+AI+%E2%80%A2+IoT+%E2%80%A2+Cinematic+Design.;SIH+2025+Finalist+%E2%80%A2+IIT+Madras+Hackathon.;Open+to+what%27s+next." alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://hansraj-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%230f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/hansraj-tiwari">
+    <img src="https://img.shields.io/badge/LinkedIn-%230f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://acezen.in/">
+    <img src="https://img.shields.io/badge/AceZen.in-%230f0c29?style=for-the-badge&logo=googlechrome&logoColor=a78bfa" alt="AceZen" />
+  </a>
+  &nbsp;
+  <a href="mailto:priyanktiwari434@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%230f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Email" />
+  </a>
+</p>
+
+<br />
 
 ---
 
 ## ⚡ The Architectural Journey
+
 **Multidisciplinary developer and builder since age 8.** Bridging complex high-performance software, native cybernetics interfaces, and creative cinematic design. Exploring the intersection between logic and the human soul.
 
 > [!NOTE]
-> ### 🏆 Key Accolades & Accolades
+> ### 🏆 Key Accolades
 > * 🛡️ **Smart India Hackathon (SIH 2025) Finalist** in Advanced Engineering.
 > * 🧬 **2x National Children's Science Congress (NCSC)** National Participant.
 > * 🏅 **RSBVP 1st Place (Nationals)** representing state-level innovation.
@@ -25,7 +46,7 @@
 
 ---
 
-## 🚀 Featured Sandbox Projects
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
@@ -58,7 +79,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 MineHealth (Mind &amp; Life OS)</h3>
+      <h3>🧠 MineHealth (Mind & Life OS)</h3>
       <p><i>React, FastAPI, MongoDB, Gemini AI</i></p>
       <p>A Minecraft-themed gamified mental health and productivity suite. Integrates local symptom tracking, secure journals, JEE study schedules, and an interactive Blocky AI buddy.</p>
       <a href="https://github.com/Stormynubee/MineHealth-Showcase"><b>Codebase ↗</b></a>
@@ -72,16 +93,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌿🖐️ Psoriasis Companion (with Aether Hands)</h3>
-      <p><i>React 19, TypeScript, MediaPipe, Dexie.js (IndexedDB), PWA</i></p>
-      <p>A privacy-first, offline-capable Progressive Web App (PWA) designed to track chronic psoriasis, now integrated with Aether Hands' touchless computer vision controls. Allows individuals with severe joint pain, dactylitis, or cracked skin to navigate and log flare-ups completely hands-free via mid-air gestures and dwell-clicking.</p>
+      <h3>🌿🖐️ Psoriasis Companion</h3>
+      <p><i>React 19, TypeScript, MediaPipe, Dexie.js, PWA</i></p>
+      <p>A privacy-first, offline-capable PWA for chronic psoriasis tracking integrated with Aether Hands' touchless computer vision controls — enabling hands-free navigation via mid-air gestures for those with severe joint pain or dactylitis.</p>
       <a href="https://github.com/Stormynubee/psoriasis-companion"><b>Codebase ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Gesture Glove</h3>
       <p><i>ESP32, Flex Sensors, IoT</i></p>
       <p>A physical smart IoT wearable. Captures raw sign language hand signals via flex sensors and accelerometer chips, translating them into synthesised speech in real-time.</p>
-      <b>Active Hardware R&amp;D</b>
+      <b>Active Hardware R&D</b>
     </td>
   </tr>
   <tr>
@@ -96,24 +117,22 @@
 
 ---
 
-## 🖥️ System Hardware & Stack Metrics
-
-<p align="center">
-  <img src="system-spec.svg" width="550" alt="System Architect Stack Specifications" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Stormynubee&theme=tokyonight&no-bg=true&column=7&margin-w=15" height="90" />
 </p>
 
 ---
 
-## 📫 System Uplink Channel
+## 📫 Let's Connect
 
-* **Email Interlink:** [priyanktiwari434@gmail.com](mailto:priyanktiwari434@gmail.com)
-* **LinkedIn Hub:** [linkedin.com/in/hansraj-tiwari](https://linkedin.com/in/hansraj-tiwari)
-* **AceZen Studio Port:** [acezen.in](https://acezen.in/)
+* **Email:** [priyanktiwari434@gmail.com](mailto:priyanktiwari434@gmail.com)
+* **LinkedIn:** [linkedin.com/in/hansraj-tiwari](https://linkedin.com/in/hansraj-tiwari)
+* **Studio:** [acezen.in](https://acezen.in/)
 
 <p align="center">
-  <i>“Building the future, one block at a time. The physical world is just another canvas.”</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <i>"Building the future, one block at a time. The physical world is just another canvas."</i>
 </p>
