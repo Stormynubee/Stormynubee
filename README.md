@@ -49,51 +49,23 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>NovaDrive</b><br />
+      <b>Margi</b><br />
       <sub>Expo SDK 54 &nbsp;&middot;&nbsp; React Native &nbsp;&middot;&nbsp; TypeScript &nbsp;&middot;&nbsp; SQLite</sub>
       <br /><br />
-      Offline-first emergency co-pilot for IIT Madras RoadSoS 2026. Golden Hour routing, START triage FSM, QR bystander relay &mdash; fully functional in airplane mode.
+      Offline-first Golden Hour co-pilot for IIT Madras RoadSoS 2026. Emergency triage, voice-guided routing, and QR bystander relay &mdash; fully functional in airplane mode.
       <br /><br />
-      <a href="https://github.com/Stormynubee/novadrive/tree/master">Codebase</a> &nbsp;&middot;&nbsp;
-      <a href="https://drive.google.com/drive/folders/15TaAJGIMtxYrN6eIPGyIJZqyhIHqSmjQ">Docs</a> &nbsp;&middot;&nbsp;
-      <a href="https://drive.google.com/file/d/10k0xtmzZXehshu93oddi1c_znsuy_eti/view?usp=sharing">Demo Video</a>
+      <a href="https://github.com/Stormynubee/Margi">Codebase</a>
     </td>
     <td width="50%" valign="top">
-      <b>UMANG OS</b><br />
-      <sub>React &nbsp;&middot;&nbsp; OpenCV &nbsp;&middot;&nbsp; Python</sub>
+      <b>Bogieflow</b><br />
+      <sub>Python &nbsp;&middot;&nbsp; Multi-Agent &nbsp;&middot;&nbsp; Digital Twin &nbsp;&middot;&nbsp; IoT</sub>
       <br /><br />
-      AI-powered operating system with affective computing &mdash; a physical desk assistant that adapts in real time to user emotion.
+      Climate &times; vibration fusion for railway track-bed maintenance &mdash; a live, multi-agent digital twin system built for FAR AWAY 2026 (Indian Railways).
       <br /><br />
-      <a href="https://umangos.vercel.app">Live Demo</a>
+      <a href="https://github.com/Stormynubee/Bogieflow">Codebase</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <b>Focus OS</b><br />
-      <sub>Next.js &nbsp;&middot;&nbsp; Framer Motion &nbsp;&middot;&nbsp; Tailwind</sub>
-      <br /><br />
-      Cat-themed focus and accountability suite for couples. Non-surveillance presence tracking, custom streaks, shared dashboards.
-      <br /><br />
-      <a href="https://focuso-main.vercel.app">Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>BizCatcher</b><br />
-      <sub>Next.js 16 &nbsp;&middot;&nbsp; OSM API &nbsp;&middot;&nbsp; Overpass</sub>
-      <br /><br />
-      Business discovery and lead-generation engine with an interactive dark-themed map, advanced tag queries, and native CSV export.
-      <br /><br />
-      <a href="https://github.com/Stormynubee/BizCatcher">Codebase</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>MineHealth</b><br />
-      <sub>React &nbsp;&middot;&nbsp; FastAPI &nbsp;&middot;&nbsp; MongoDB &nbsp;&middot;&nbsp; Gemini AI</sub>
-      <br /><br />
-      Minecraft-themed mental health & productivity OS. Gamified symptom tracking, JEE study schedules, and a conversational Blocky AI companion.
-      <br /><br />
-      <a href="https://github.com/Stormynubee/MineHealth-Showcase">Codebase</a>
-    </td>
     <td width="50%" valign="top">
       <b>RetainIQ</b><br />
       <sub>LightGBM &nbsp;&middot;&nbsp; CatBoost &nbsp;&middot;&nbsp; scikit-learn</sub>
@@ -102,8 +74,24 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
       <br /><br />
       <a href="https://github.com/Stormynubee/retainiq-churnzero-26">Codebase</a>
     </td>
+    <td width="50%" valign="top">
+      <b>MineHealth</b><br />
+      <sub>React &nbsp;&middot;&nbsp; FastAPI &nbsp;&middot;&nbsp; MongoDB &nbsp;&middot;&nbsp; Gemini AI</sub>
+      <br /><br />
+      Minecraft-themed mental health & productivity OS. Gamified symptom tracking, JEE study schedules, and a conversational Blocky AI companion.
+      <br /><br />
+      <a href="https://github.com/Stormynubee/MineHealth-Showcase">Codebase</a>
+    </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <b>BizCatcher</b><br />
+      <sub>Next.js 16 &nbsp;&middot;&nbsp; OSM API &nbsp;&middot;&nbsp; Overpass</sub>
+      <br /><br />
+      Business discovery and lead-generation engine with an interactive dark-themed map, advanced tag queries, and native CSV export.
+      <br /><br />
+      <a href="https://github.com/Stormynubee/BizCatcher">Codebase</a>
+    </td>
     <td width="50%" valign="top">
       <b>Psoriasis Companion</b><br />
       <sub>React 19 &nbsp;&middot;&nbsp; TypeScript &nbsp;&middot;&nbsp; MediaPipe &nbsp;&middot;&nbsp; PWA</sub>
@@ -112,13 +100,23 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
       <br /><br />
       <a href="https://github.com/Stormynubee/psoriasis-companion">Codebase</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <b>Gesture Glove</b><br />
-      <sub>ESP32 &nbsp;&middot;&nbsp; Flex Sensors &nbsp;&middot;&nbsp; IoT</sub>
+      <b>UMANG OS</b><br />
+      <sub>React &nbsp;&middot;&nbsp; OpenCV &nbsp;&middot;&nbsp; Python</sub>
       <br /><br />
-      Wearable that translates sign language hand signals via flex sensors and accelerometers into real-time synthesized speech.
+      AI-powered operating system with affective computing &mdash; a physical desk assistant that adapts in real time to user emotion.
       <br /><br />
-      <i>Active Hardware R&D</i>
+      <a href="https://umangos.vercel.app">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>Focus OS</b><br />
+      <sub>Next.js &nbsp;&middot;&nbsp; Framer Motion &nbsp;&middot;&nbsp; Tailwind</sub>
+      <br /><br />
+      Cat-themed focus and accountability suite for couples. Non-surveillance presence tracking, custom streaks, shared dashboards.
+      <br /><br />
+      <a href="https://focuso-main.vercel.app">Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -142,13 +140,13 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stormynubee&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&hide_title=false&rank_icon=github&card_width=420" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stormynubee&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&rank_icon=github&card_width=400" height="155" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stormynubee&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=e2e8f0&langs_count=6&card_width=280" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stormynubee&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=e2e8f0&langs_count=6&card_width=280" height="155" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Stormynubee&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=12" height="80" />
+  <img src="https://streak-stats.demolab.com?user=Stormynubee&theme=transparent&hide_border=true&background=0d0d1a&stroke=302b63&ring=c4b5fd&fire=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a78bfa&excludeDaysLabel=a78bfa" height="150" />
 </p>
 
 <br />
