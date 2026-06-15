@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=560&lines=Building+at+the+intersection+of+code+%26+soul.;Founder+%40+AceZen+Studio.;SIH+2025+Finalist+%C2%B7+IIT+Madras+Hackathon.;Full-Stack+%C2%B7+AI+%C2%B7+IoT+%C2%B7+Creative+Direction.;Open+to+what%27s+next." alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=560&lines=I+build+things+that+probably+shouldn%27t+work+but+do.;Founder+%40+AceZen+Studio.;SIH+2025+Finalist+%C2%B7+IIT+Madras+RoadSoS+2026.;Full-Stack+%C2%B7+AI+%C2%B7+IoT+%C2%B7+Design.;Always+shipping+something." alt="" />
 </p>
 
 <br />
@@ -24,19 +24,19 @@
 
 <br />
 
-Multidisciplinary developer and builder since age 8 &mdash; bridging high-performance software, physical computing, and cinematic design. I build things that sit at the edge of what's technically possible and what feels human.
+Started coding at 8. Still haven't stopped. I work across full-stack, AI, IoT, and motion design — usually on problems that don't fit neatly into one category. I run [AceZen Studio](https://acezen.in/), compete in hackathons, and build hardware when screens aren't enough.
 
 <br />
 
-**Recognition**
+**A few things I'm proud of**
 
-- 🛡&nbsp; Smart India Hackathon 2025 &mdash; Finalist, Advanced Engineering
+- 🛡&nbsp; Smart India Hackathon 2025 &mdash; Finalist
 - 🏛&nbsp; IIT Madras RoadSoS 2026 &mdash; Team NovaDrive (MoRTH)
-- 🧬&nbsp; National Children's Science Congress &mdash; 2× National Participant
+- 🧬&nbsp; National Children's Science Congress &mdash; 2&times; National Participant
 - 🥇&nbsp; RSBVP Nationals &mdash; 1st Place
 - 🎓&nbsp; Harvard CS50x &mdash; Certified
-- 🌍&nbsp; 110k+ member online communities managed across design & tech
-- 🏢&nbsp; Founder & Creative Director &mdash; [AceZen Studio](https://acezen.in/)
+- 🌍&nbsp; Managed 110k+ member communities across design & tech
+- 🏢&nbsp; Founder & Creative Director, [AceZen Studio](https://acezen.in/)
 
 <br />
 
@@ -52,7 +52,7 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
       <b>Margi</b><br />
       <sub>Expo SDK 54 &nbsp;&middot;&nbsp; React Native &nbsp;&middot;&nbsp; TypeScript &nbsp;&middot;&nbsp; SQLite</sub>
       <br /><br />
-      Offline-first Golden Hour co-pilot for IIT Madras RoadSoS 2026. Emergency triage, voice-guided routing, and QR bystander relay &mdash; fully functional in airplane mode.
+      Built for IIT Madras RoadSoS 2026. Works without internet. Handles crash triage, voice routing, and QR-based bystander handoff. Meant for situations where signal drops and every second counts.
       <br /><br />
       <a href="https://github.com/Stormynubee/Margi">Codebase</a>
     </td>
@@ -60,7 +60,7 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
       <b>Bogieflow</b><br />
       <sub>Python &nbsp;&middot;&nbsp; Multi-Agent &nbsp;&middot;&nbsp; Digital Twin &nbsp;&middot;&nbsp; IoT</sub>
       <br /><br />
-      Climate &times; vibration fusion for railway track-bed maintenance &mdash; a live, multi-agent digital twin system built for FAR AWAY 2026 (Indian Railways).
+      Railway track-bed health monitoring using climate and vibration data. Built for FAR AWAY 2026 (Indian Railways). Multiple agents, live digital twin, no manual inspection needed.
       <br /><br />
       <a href="https://github.com/Stormynubee/Bogieflow">Codebase</a>
     </td>
@@ -70,7 +70,7 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
       <b>RetainIQ</b><br />
       <sub>LightGBM &nbsp;&middot;&nbsp; CatBoost &nbsp;&middot;&nbsp; scikit-learn</sub>
       <br /><br />
-      Banking churn retention engine for IIT Kharagpur ChurnZero 26. PR-AUC 0.9999, rupee-optimal thresholding (~69% cost savings), fairness audited.
+      Churn prediction for banking, built for IIT Kharagpur ChurnZero 26. Hit PR-AUC 0.9999, cut costs by ~69% with rupee-weighted thresholding, and ran a full fairness audit on the final model.
       <br /><br />
       <a href="https://github.com/Stormynubee/retainiq-churnzero-26">Codebase</a>
     </td>
@@ -78,7 +78,7 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
       <b>MineHealth</b><br />
       <sub>React &nbsp;&middot;&nbsp; FastAPI &nbsp;&middot;&nbsp; MongoDB &nbsp;&middot;&nbsp; Gemini AI</sub>
       <br /><br />
-      Minecraft-themed mental health & productivity OS. Gamified symptom tracking, JEE study schedules, and a conversational Blocky AI companion.
+      Mental health and productivity tracker wrapped in a Minecraft theme. Has symptom logging, a JEE study planner, journals, and a Blocky AI that actually feels like a companion rather than a chatbot.
       <br /><br />
       <a href="https://github.com/Stormynubee/MineHealth-Showcase">Codebase</a>
     </td>
@@ -88,7 +88,7 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
       <b>BizCatcher</b><br />
       <sub>Next.js 16 &nbsp;&middot;&nbsp; OSM API &nbsp;&middot;&nbsp; Overpass</sub>
       <br /><br />
-      Business discovery and lead-generation engine with an interactive dark-themed map, advanced tag queries, and native CSV export.
+      Lead generation tool that scrapes local business data from OpenStreetMap. Dark map UI, tag-based filtering, exports to CSV. Fast and does exactly what it says.
       <br /><br />
       <a href="https://github.com/Stormynubee/BizCatcher">Codebase</a>
     </td>
@@ -96,7 +96,7 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
       <b>Psoriasis Companion</b><br />
       <sub>React 19 &nbsp;&middot;&nbsp; TypeScript &nbsp;&middot;&nbsp; MediaPipe &nbsp;&middot;&nbsp; PWA</sub>
       <br /><br />
-      Offline PWA for chronic psoriasis tracking with Aether Hands &mdash; fully hands-free gesture navigation via computer vision for patients with joint pain.
+      Flare-up tracker for psoriasis patients, built as a PWA so it works offline. Integrated Aether Hands so people with severe joint pain can navigate it entirely through mid-air gestures.
       <br /><br />
       <a href="https://github.com/Stormynubee/psoriasis-companion">Codebase</a>
     </td>
@@ -106,7 +106,7 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
       <b>UMANG OS</b><br />
       <sub>React &nbsp;&middot;&nbsp; OpenCV &nbsp;&middot;&nbsp; Python</sub>
       <br /><br />
-      AI-powered operating system with affective computing &mdash; a physical desk assistant that adapts in real time to user emotion.
+      An OS concept that reads your face. Computer vision detects emotion in real time and the desk assistant adjusts accordingly. Started as a science project, ended up being something I actually use.
       <br /><br />
       <a href="https://umangos.vercel.app">Live Demo</a>
     </td>
@@ -114,7 +114,7 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
       <b>Focus OS</b><br />
       <sub>Next.js &nbsp;&middot;&nbsp; Framer Motion &nbsp;&middot;&nbsp; Tailwind</sub>
       <br /><br />
-      Cat-themed focus and accountability suite for couples. Non-surveillance presence tracking, custom streaks, shared dashboards.
+      Focus tracker for couples. No screenshots, no surveillance — just presence indicators, streaks, and shared dashboards. Cat-themed because why not.
       <br /><br />
       <a href="https://focuso-main.vercel.app">Live Demo</a>
     </td>
@@ -124,7 +124,7 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
       <b>AceZen Portal</b><br />
       <sub>Next.js &nbsp;&middot;&nbsp; Tailwind CSS &nbsp;&middot;&nbsp; Framer Motion</sub>
       <br /><br />
-      The cinematic home of AceZen Studio &mdash; interactive shaders, dynamic grain-filter mood engines, magnetic light-trail cursor interactions.
+      The studio site. Custom WebGL shaders, grain-filter mood overlays, magnetic cursor trails. More of a design experiment than a standard portfolio — which is kind of the point.
       <br /><br />
       <a href="https://acezen.in/">Live Platform</a>
     </td>
@@ -170,5 +170,5 @@ Multidisciplinary developer and builder since age 8 &mdash; bridging high-perfor
 </p>
 
 <p align="center">
-  <sub><i>"Building the future, one block at a time. The physical world is just another canvas."</i></sub>
+  <sub><i>"The physical world is just another canvas."</i></sub>
 </p>
