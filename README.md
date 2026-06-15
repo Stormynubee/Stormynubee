@@ -24,19 +24,19 @@
 
 <br />
 
-Started at 8. Haven't stopped since. I build across full-stack, AI, IoT, and motion design. I run [AceZen Studio](https://acezen.in/), show up to hackathons, and pick up a soldering iron when the project needs it.
+Started coding at age 8. Haven't stopped since. I build across full-stack software, AI, IoT, and cinematic design. I run [AceZen Studio](https://acezen.in/), show up to hackathons, and pick up a soldering iron when a project needs it.
 
 <br />
 
 **A few things I'm proud of**
 
-- 🛡&nbsp; Finalist at Smart India Hackathon 2025
-- 🏛&nbsp; Built Margi for IIT Madras RoadSoS 2026 (MoRTH)
-- 🧬&nbsp; 2&times; National Participant at Children's Science Congress
-- 🥇&nbsp; 1st place at RSBVP Nationals
-- 🎓&nbsp; Harvard CS50x
-- 🌍&nbsp; Ran 110k+ member communities across design & tech
-- 🏢&nbsp; Founder & Creative Director, [AceZen Studio](https://acezen.in/)
+- 🛡&nbsp; Finalist at the Smart India Hackathon 2025 (Advanced Engineering)
+- 🏛&nbsp; Built Margi for the IIT Madras RoadSoS 2026 hackathon (MoRTH)
+- 🧬&nbsp; 2&times; National Participant at the National Children's Science Congress
+- 🥇&nbsp; 1st Place at RSBVP Nationals for state-level innovation
+- 🎓&nbsp; Completed Harvard's CS50x Computer Science curriculum
+- 🌍&nbsp; Managed communities with over 110k members across design and tech
+- 🏢&nbsp; Founder and Creative Director of [AceZen Studio](https://acezen.in/)
 
 <br />
 
@@ -52,7 +52,7 @@ Started at 8. Haven't stopped since. I build across full-stack, AI, IoT, and mot
       <b>Margi</b><br />
       <sub>Expo SDK 54 &nbsp;&middot;&nbsp; React Native &nbsp;&middot;&nbsp; TypeScript &nbsp;&middot;&nbsp; SQLite</sub>
       <br /><br />
-      Built for IIT Madras RoadSoS 2026. Works without internet. Handles crash triage, voice routing, and QR-based bystander handoff. Meant for situations where signal drops and every second counts.
+      Built for IIT Madras RoadSoS 2026. Works entirely offline to handle crash triage, voice routing, and QR-based bystander handoffs during critical emergency response windows.
       <br /><br />
       <a href="https://github.com/Stormynubee/Margi">Codebase</a>
     </td>
@@ -60,7 +60,7 @@ Started at 8. Haven't stopped since. I build across full-stack, AI, IoT, and mot
       <b>Bogieflow</b><br />
       <sub>Python &nbsp;&middot;&nbsp; Multi-Agent &nbsp;&middot;&nbsp; Digital Twin &nbsp;&middot;&nbsp; IoT</sub>
       <br /><br />
-      Railway track-bed health monitoring using climate and vibration data. Built for FAR AWAY 2026 (Indian Railways). Multiple agents, live digital twin, no manual inspection needed.
+      Monitors railway track-bed health using climate and vibration data. Built for FAR AWAY 2026 (Indian Railways), featuring multiple agents and a live digital twin to automate structural assessments.
       <br /><br />
       <a href="https://github.com/Stormynubee/Bogieflow">Codebase</a>
     </td>
@@ -70,7 +70,7 @@ Started at 8. Haven't stopped since. I build across full-stack, AI, IoT, and mot
       <b>RetainIQ</b><br />
       <sub>LightGBM &nbsp;&middot;&nbsp; CatBoost &nbsp;&middot;&nbsp; scikit-learn</sub>
       <br /><br />
-      Churn prediction for banking, built for IIT Kharagpur ChurnZero 26. Hit PR-AUC 0.9999, cut costs by ~69% with rupee-weighted thresholding, and ran a full fairness audit on the final model.
+      Churn prediction engine built for IIT Kharagpur's ChurnZero 26. Reached a PR-AUC of 0.9999, saved ~69% in retention costs using rupee-weighted thresholding, and ran a demographic fairness audit.
       <br /><br />
       <a href="https://github.com/Stormynubee/retainiq-churnzero-26">Codebase</a>
     </td>
@@ -88,7 +88,7 @@ Started at 8. Haven't stopped since. I build across full-stack, AI, IoT, and mot
       <b>BizCatcher</b><br />
       <sub>Next.js 16 &nbsp;&middot;&nbsp; OSM API &nbsp;&middot;&nbsp; Overpass</sub>
       <br /><br />
-      Lead generation tool that scrapes local business data from OpenStreetMap. Dark map UI, tag-based filtering, exports to CSV. Fast and does exactly what it says.
+      Lead generation engine that maps business data from OpenStreetMap. Built with a dark interactive map, tag-based filtering, and fast CSV export.
       <br /><br />
       <a href="https://github.com/Stormynubee/BizCatcher">Codebase</a>
     </td>
@@ -96,7 +96,7 @@ Started at 8. Haven't stopped since. I build across full-stack, AI, IoT, and mot
       <b>Psoriasis Companion</b><br />
       <sub>React 19 &nbsp;&middot;&nbsp; TypeScript &nbsp;&middot;&nbsp; MediaPipe &nbsp;&middot;&nbsp; PWA</sub>
       <br /><br />
-      Flare-up tracker for psoriasis patients, built as a PWA so it works offline. Integrated Aether Hands so people with severe joint pain can navigate it entirely through mid-air gestures.
+      Offline-first PWA to track flare-ups for chronic psoriasis. Integrated Aether Hands' computer vision controls so patients with joint pain can navigate hands-free using mid-air gestures.
       <br /><br />
       <a href="https://github.com/Stormynubee/psoriasis-companion">Codebase</a>
     </td>
@@ -106,7 +106,7 @@ Started at 8. Haven't stopped since. I build across full-stack, AI, IoT, and mot
       <b>UMANG OS</b><br />
       <sub>React &nbsp;&middot;&nbsp; OpenCV &nbsp;&middot;&nbsp; Python</sub>
       <br /><br />
-      An OS concept that reads your face. Computer vision detects emotion in real time and the desk assistant adjusts accordingly. Started as a science project, ended up being something I actually use.
+      An OS concept that reacts to facial expressions. Uses real-time computer vision to detect emotions, allowing a physical desk assistant to adjust the workspace environment accordingly.
       <br /><br />
       <a href="https://umangos.vercel.app">Live Demo</a>
     </td>
@@ -114,7 +114,7 @@ Started at 8. Haven't stopped since. I build across full-stack, AI, IoT, and mot
       <b>Focus OS</b><br />
       <sub>Next.js &nbsp;&middot;&nbsp; Framer Motion &nbsp;&middot;&nbsp; Tailwind</sub>
       <br /><br />
-      Focus tracker for couples. No screenshots, no surveillance. Just presence indicators, streaks, and shared dashboards. Cat-themed because why not.
+      A high-fidelity focus and accountability dashboard for couples. Built without invasive screenshots or surveillance, featuring shared streaks and a playful cat theme.
       <br /><br />
       <a href="https://focuso-main.vercel.app">Live Demo</a>
     </td>
@@ -124,7 +124,7 @@ Started at 8. Haven't stopped since. I build across full-stack, AI, IoT, and mot
       <b>AceZen Portal</b><br />
       <sub>Next.js &nbsp;&middot;&nbsp; Tailwind CSS &nbsp;&middot;&nbsp; Framer Motion</sub>
       <br /><br />
-      The studio site. Custom WebGL shaders, grain-filter mood overlays, magnetic cursor trails. More of a design experiment than a standard portfolio, which is kind of the point.
+      The immersive homepage for AceZen Studio. Showcases custom WebGL shaders, grain-filter mood overlays, and interactive light trails—designed to feel more like an art piece than a standard portfolio.
       <br /><br />
       <a href="https://acezen.in/">Live Platform</a>
     </td>
