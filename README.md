@@ -124,7 +124,7 @@ Started coding at age 8. Haven't stopped since. I build across full-stack softwa
       <b>AceZen Portal</b><br />
       <sub>Next.js &nbsp;&middot;&nbsp; Tailwind CSS &nbsp;&middot;&nbsp; Framer Motion</sub>
       <br /><br />
-      The immersive homepage for AceZen Studio. Showcases custom WebGL shaders, grain-filter mood overlays, and interactive light trails—designed to feel more like an art piece than a standard portfolio.
+      The immersive homepage for AceZen Studio. Built with custom WebGL shaders, grain-filter mood overlays, and interactive light trails, designed to feel more like an art piece than a standard portfolio.
       <br /><br />
       <a href="https://acezen.in/">Live Platform</a>
     </td>
