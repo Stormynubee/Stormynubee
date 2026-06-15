@@ -24,18 +24,18 @@
 
 <br />
 
-Started coding at 8. Still haven't stopped. I work across full-stack, AI, IoT, and motion design — usually on problems that don't fit neatly into one category. I run [AceZen Studio](https://acezen.in/), compete in hackathons, and build hardware when screens aren't enough.
+Started at 8. Haven't stopped since. I build across full-stack, AI, IoT, and motion design. I run [AceZen Studio](https://acezen.in/), show up to hackathons, and pick up a soldering iron when the project needs it.
 
 <br />
 
 **A few things I'm proud of**
 
-- 🛡&nbsp; Smart India Hackathon 2025 &mdash; Finalist
-- 🏛&nbsp; IIT Madras RoadSoS 2026 &mdash; Team NovaDrive (MoRTH)
-- 🧬&nbsp; National Children's Science Congress &mdash; 2&times; National Participant
-- 🥇&nbsp; RSBVP Nationals &mdash; 1st Place
-- 🎓&nbsp; Harvard CS50x &mdash; Certified
-- 🌍&nbsp; Managed 110k+ member communities across design & tech
+- 🛡&nbsp; Finalist at Smart India Hackathon 2025
+- 🏛&nbsp; Built Margi for IIT Madras RoadSoS 2026 (MoRTH)
+- 🧬&nbsp; 2&times; National Participant at Children's Science Congress
+- 🥇&nbsp; 1st place at RSBVP Nationals
+- 🎓&nbsp; Harvard CS50x
+- 🌍&nbsp; Ran 110k+ member communities across design & tech
 - 🏢&nbsp; Founder & Creative Director, [AceZen Studio](https://acezen.in/)
 
 <br />
@@ -114,7 +114,7 @@ Started coding at 8. Still haven't stopped. I work across full-stack, AI, IoT, a
       <b>Focus OS</b><br />
       <sub>Next.js &nbsp;&middot;&nbsp; Framer Motion &nbsp;&middot;&nbsp; Tailwind</sub>
       <br /><br />
-      Focus tracker for couples. No screenshots, no surveillance — just presence indicators, streaks, and shared dashboards. Cat-themed because why not.
+      Focus tracker for couples. No screenshots, no surveillance. Just presence indicators, streaks, and shared dashboards. Cat-themed because why not.
       <br /><br />
       <a href="https://focuso-main.vercel.app">Live Demo</a>
     </td>
@@ -124,7 +124,7 @@ Started coding at 8. Still haven't stopped. I work across full-stack, AI, IoT, a
       <b>AceZen Portal</b><br />
       <sub>Next.js &nbsp;&middot;&nbsp; Tailwind CSS &nbsp;&middot;&nbsp; Framer Motion</sub>
       <br /><br />
-      The studio site. Custom WebGL shaders, grain-filter mood overlays, magnetic cursor trails. More of a design experiment than a standard portfolio — which is kind of the point.
+      The studio site. Custom WebGL shaders, grain-filter mood overlays, magnetic cursor trails. More of a design experiment than a standard portfolio, which is kind of the point.
       <br /><br />
       <a href="https://acezen.in/">Live Platform</a>
     </td>
