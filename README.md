@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=C4B5FD&center=true&vCenter=true&multiline=false&width=700&lines=I+build+things+that+probably+shouldn%27t+work...+but+do.;Founder+%40+AceZen+Studio+%E2%86%92+acezen.in;SIH+2025+Finalist+%C2%B7+IIT+Madras+RoadSoS+2026+(MoRTH);Full-Stack+%C2%B7+AI+%C2%B7+IoT+%C2%B7+Cinematic+Design;Coding+since+age+8.+Still+going." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=C4B5FD&center=true&vCenter=true&multiline=false&width=700&lines=started+coding+at+8.+still+haven%27t+stopped.;runs+a+studio+at+17+%28yes%2C+seriously%29;SIH+2025+finalist+%2F+IIT+Madras+RoadSoS+builder;full-stack%2C+AI%2C+IoT%2C+and+a+soldering+iron;ships+first%2C+sleeps+later." />
 </p>
 
 <!-- SOCIAL BADGES -->
@@ -37,29 +37,29 @@
 
 <!-- ABOUT ME SECTION -->
 
-<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
-### ⚡ About Me
+### hi, I'm Hansraj. I build things. 👋
 
 ```yaml
-name:     Hansraj Tiwari
-alias:    Stormynubee
-age:      17
-location: India
+name:       Hansraj Tiwari
+alias:      Stormynubee
+age:        17  # yes, really
+location:   India
 
-role:
-  - Founder & Creative Director @ AceZen Studio
-  - Full-Stack Engineer
-  - AI / IoT Builder
-  - Hackathon Survivor
+what I do:
+  - run a design studio (AceZen) because apparently I hate free time
+  - build full-stack apps, AI stuff, IoT junk that actually works
+  - go to hackathons and come back with wins, not just swag
+  - grab a soldering iron when the software hits its limits
 
-started:  age 8 (no, really)
-stopped:  never
+started:    age 8
+quitting:   not on the roadmap
 
 currently:
-  - Building things that probably shouldn't work
-  - Running a 110k+ member community
-  - Picking up a soldering iron when needed
+  - building something I probably shouldn't
+  - managing 110k+ people across design and tech communities
+  - answering emails I should've replied to last week
 ```
 
 <br/><br/><br/>
@@ -68,36 +68,36 @@ currently:
 
 <!-- ACHIEVEMENTS -->
 
-## 🏆 Milestones
+## 🏆 things that actually happened
 
 <table>
   <tr>
     <td>🛡️</td>
-    <td><b>SIH 2025 Finalist</b> — Smart India Hackathon (Advanced Engineering)</td>
+    <td><b>SIH 2025 Finalist</b> &nbsp; Smart India Hackathon. made it to the finals. not bad for a teenager.</td>
   </tr>
   <tr>
     <td>🏛️</td>
-    <td><b>IIT Madras RoadSoS 2026</b> — Built Margi for MoRTH's emergency response challenge</td>
+    <td><b>IIT Madras RoadSoS 2026</b> &nbsp; built Margi for MoRTH's emergency response challenge. from scratch. in a hackathon.</td>
   </tr>
   <tr>
     <td>🧬</td>
-    <td><b>2× National Participant</b> — National Children's Science Congress</td>
+    <td><b>National Children's Science Congress</b> &nbsp; represented nationally. twice. apparently once wasn't enough.</td>
   </tr>
   <tr>
     <td>🥇</td>
-    <td><b>1st Place</b> — RSBVP Nationals, State-Level Innovation</td>
+    <td><b>1st place</b> &nbsp; RSBVP Nationals for state-level innovation. gold, not participation.</td>
   </tr>
   <tr>
     <td>🎓</td>
-    <td><b>Harvard CS50x</b> — Completed Computer Science curriculum</td>
+    <td><b>Harvard CS50x</b> &nbsp; finished the whole curriculum. David Malan would be proud.</td>
   </tr>
   <tr>
     <td>🌍</td>
-    <td><b>110k+ Community</b> — Managed design & tech communities</td>
+    <td><b>110k+ community</b> &nbsp; somehow people listen to me. I run design and tech communities.</td>
   </tr>
   <tr>
     <td>🏢</td>
-    <td><b>AceZen Studio</b> — Founder & Creative Director · <a href="https://acezen.in/">acezen.in</a></td>
+    <td><b>AceZen Studio</b> &nbsp; founded it, still running it, not planning to stop. <a href="https://acezen.in/">acezen.in</a></td>
   </tr>
 </table>
 
@@ -107,7 +107,7 @@ currently:
 
 <!-- TECH STACK -->
 
-## 🛠️ Tech Stack
+## 🛠️ the stack (it's a lot, I know)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c&perline=10&theme=dark" /><br/>
@@ -123,12 +123,12 @@ currently:
 
 <!-- PROJECTS -->
 
-## 🚀 Projects
+## 🚀 shipped
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚨 Margi</h3>
+      <h3>🚨 Margi &nbsp; <sub>offline emergency response app</sub></h3>
       <sub>
         <img src="https://img.shields.io/badge/Expo_SDK_54-000?style=flat-square&logo=expo&logoColor=white" />
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -136,21 +136,21 @@ currently:
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </sub>
       <br/><br/>
-      Built for IIT Madras RoadSoS 2026. Works entirely <b>offline</b> — crash triage, voice routing, and QR-based bystander handoffs during critical emergency response windows.
+      Emergency response app that works with zero internet. handles crash triage, voice routing, QR-based bystander handoffs. built this for IIT Madras RoadSoS 2026 and yes, it actually works.
       <br/><br/>
       <a href="https://github.com/Stormynubee/Margi">
         <img src="https://img.shields.io/badge/View_Codebase-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🚂 Bogieflow</h3>
+      <h3>🚂 Bogieflow &nbsp; <sub>real-time rail monitoring</sub></h3>
       <sub>
         <img src="https://img.shields.io/badge/IoT-FF6B35?style=flat-square&logo=arduino&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       </sub>
       <br/><br/>
-      Real-time rail car monitoring system. Sensor data meets cinematic dashboards — where hardware meets UI elegance.
+      Rail car monitoring using IoT sensors piped into a real-time dashboard. making trains slightly less of a mystery.
       <br/><br/>
       <a href="https://github.com/Stormynubee">
         <img src="https://img.shields.io/badge/Explore_Profile-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
@@ -165,7 +165,7 @@ currently:
 
 <!-- GITHUB STATS -->
 
-## 📊 GitHub Stats
+## 📊 the numbers (judge away)
 
 <div align="center">
 
@@ -193,7 +193,7 @@ currently:
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 
-## 🐍 Contribution Snake
+## 🐍 a snake eating my contributions (very normal)
 
 <div align="center">
   <picture>
@@ -212,5 +212,5 @@ currently:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:4f46e5,100:7c3aed&height=120&section=footer&animation=twinkling" />
 
 <p align="center">
-  <i>⚡ "I build things that probably shouldn't work — but they do." — Hansraj</i>
+  <i>⚡ if it compiles, ship it. &nbsp; if it doesn't, also ship it.</i>
 </p>
