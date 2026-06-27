@@ -37,7 +37,9 @@
 
 <!-- ABOUT ME SECTION -->
 
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ### hi, I'm Hansraj. I build things. 👋
 
@@ -48,21 +50,29 @@ age:        17  # yes, really
 location:   India
 
 what I do:
-  - run a design studio (AceZen) because apparently I hate free time
-  - build full-stack apps, AI stuff, IoT junk that actually works
-  - go to hackathons and come back with wins, not just swag
-  - grab a soldering iron when the software hits its limits
+  - run AceZen Studio (because I hate free time)
+  - build full-stack apps, AI stuff, IoT things
+  - go to hackathons and actually ship
+  - grab a soldering iron when code isn't enough
 
 started:    age 8
 quitting:   not on the roadmap
 
 currently:
   - building something I probably shouldn't
-  - managing 110k+ people across design and tech communities
-  - answering emails I should've replied to last week
+  - managing 110k+ people in tech communities
+  - answering emails from last week
 ```
 
-<br/><br/><br/>
+</td>
+<td valign="top" width="45%" align="center">
+<br/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="cat coding" />
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
