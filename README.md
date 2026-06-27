@@ -1,174 +1,216 @@
+<div align="center">
+
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,25:1a0533,50:0d1b2a,75:0a192f,100:0d0d1a&height=280&section=header&text=HANSRAJ%20TIWARI&fontSize=72&fontColor=c4b5fd&fontAlignY=45&fontAlign=50&desc=Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20IoT%20%E2%80%A2%20Cinematic%20Design&descSize=18&descColor=818cf8&descAlignY=65&animation=twinkling&stroke=7c3aed&strokeWidth=2" />
+
+</div>
+
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hansraj%20Tiwari&fontSize=56&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Founder%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20IoT%20%C2%B7%20Cinematic%20Design&descAlignY=62&descSize=15&descColor=c4b5fd&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=C4B5FD&center=true&vCenter=true&multiline=false&width=700&lines=I+build+things+that+probably+shouldn%27t+work...+but+do.;Founder+%40+AceZen+Studio+%E2%86%92+acezen.in;SIH+2025+Finalist+%C2%B7+IIT+Madras+RoadSoS+2026+(MoRTH);Full-Stack+%C2%B7+AI+%C2%B7+IoT+%C2%B7+Cinematic+Design;Coding+since+age+8.+Still+going." />
 </p>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=560&lines=I+build+things+that+probably+shouldn%27t+work+but+do.;Founder+%40+AceZen+Studio.;SIH+2025+Finalist+%C2%B7+IIT+Madras+RoadSoS+2026.;Full-Stack+%C2%B7+AI+%C2%B7+IoT+%C2%B7+Design.;Always+shipping+something." alt="" />
+  <a href="https://hansraj-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/hansraj-tiwari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://acezen.in/" target="_blank">
+    <img src="https://img.shields.io/badge/AceZen_Studio-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:priyanktiwari434@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<br />
-
+<!-- PROFILE VIEWS COUNTER -->
 <p align="center">
-  <a href="https://hansraj-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=flat-square&logo=vercel&logoColor=c4b5fd&labelColor=1a1a2e" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/hansraj-tiwari"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=c4b5fd&labelColor=1a1a2e" /></a>
-  &nbsp;
-  <a href="https://acezen.in/"><img src="https://img.shields.io/badge/AceZen%20Studio-1a1a2e?style=flat-square&logo=googlechrome&logoColor=c4b5fd&labelColor=1a1a2e" /></a>
-  &nbsp;
-  <a href="mailto:priyanktiwari434@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=c4b5fd&labelColor=1a1a2e" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Stormynubee&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 </p>
 
-<br />
+<br/>
 
 ---
 
-<br />
+<!-- ABOUT ME SECTION -->
 
-Started coding at age 8. Haven't stopped since. I build across full-stack software, AI, IoT, and cinematic design. I run [AceZen Studio](https://acezen.in/), show up to hackathons, and pick up a soldering iron when a project needs it.
+<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-<br />
+### ⚡ About Me
 
-**A few things I'm proud of**
+```yaml
+name:     Hansraj Tiwari
+alias:    Stormynubee
+age:      17
+location: India
 
-- 🛡&nbsp; Finalist at the Smart India Hackathon 2025 (Advanced Engineering)
-- 🏛&nbsp; Built Margi for the IIT Madras RoadSoS 2026 hackathon (MoRTH)
-- 🧬&nbsp; 2&times; National Participant at the National Children's Science Congress
-- 🥇&nbsp; 1st Place at RSBVP Nationals for state-level innovation
-- 🎓&nbsp; Completed Harvard's CS50x Computer Science curriculum
-- 🌍&nbsp; Managed communities with over 110k members across design and tech
-- 🏢&nbsp; Founder and Creative Director of [AceZen Studio](https://acezen.in/)
+role:
+  - Founder & Creative Director @ AceZen Studio
+  - Full-Stack Engineer
+  - AI / IoT Builder
+  - Hackathon Survivor
 
-<br />
+started:  age 8 (no, really)
+stopped:  never
+
+currently:
+  - Building things that probably shouldn't work
+  - Running a 110k+ member community
+  - Picking up a soldering iron when needed
+```
+
+<br/><br/><br/>
 
 ---
 
-<br />
+<!-- ACHIEVEMENTS -->
 
-## Projects
+## 🏆 Milestones
+
+<table>
+  <tr>
+    <td>🛡️</td>
+    <td><b>SIH 2025 Finalist</b> — Smart India Hackathon (Advanced Engineering)</td>
+  </tr>
+  <tr>
+    <td>🏛️</td>
+    <td><b>IIT Madras RoadSoS 2026</b> — Built Margi for MoRTH's emergency response challenge</td>
+  </tr>
+  <tr>
+    <td>🧬</td>
+    <td><b>2× National Participant</b> — National Children's Science Congress</td>
+  </tr>
+  <tr>
+    <td>🥇</td>
+    <td><b>1st Place</b> — RSBVP Nationals, State-Level Innovation</td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><b>Harvard CS50x</b> — Completed Computer Science curriculum</td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td><b>110k+ Community</b> — Managed design & tech communities</td>
+  </tr>
+  <tr>
+    <td>🏢</td>
+    <td><b>AceZen Studio</b> — Founder & Creative Director · <a href="https://acezen.in/">acezen.in</a></td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- TECH STACK -->
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c&perline=10&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi&perline=10&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase,redis&perline=10&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,linux&perline=10&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,arduino,raspberrypi,tensorflow,vscode&perline=10&theme=dark" />
+</p>
+
+<br/>
+
+---
+
+<!-- PROJECTS -->
+
+## 🚀 Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>Margi</b><br />
-      <sub>Expo SDK 54 &nbsp;&middot;&nbsp; React Native &nbsp;&middot;&nbsp; TypeScript &nbsp;&middot;&nbsp; SQLite</sub>
-      <br /><br />
-      Built for IIT Madras RoadSoS 2026. Works entirely offline to handle crash triage, voice routing, and QR-based bystander handoffs during critical emergency response windows.
-      <br /><br />
-      <a href="https://github.com/Stormynubee/Margi">Codebase</a>
+      <h3>🚨 Margi</h3>
+      <sub>
+        <img src="https://img.shields.io/badge/Expo_SDK_54-000?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </sub>
+      <br/><br/>
+      Built for IIT Madras RoadSoS 2026. Works entirely <b>offline</b> — crash triage, voice routing, and QR-based bystander handoffs during critical emergency response windows.
+      <br/><br/>
+      <a href="https://github.com/Stormynubee/Margi">
+        <img src="https://img.shields.io/badge/View_Codebase-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <b>Bogieflow</b><br />
-      <sub>Python &nbsp;&middot;&nbsp; Multi-Agent &nbsp;&middot;&nbsp; Digital Twin &nbsp;&middot;&nbsp; IoT</sub>
-      <br /><br />
-      Monitors railway track-bed health using climate and vibration data. Built for FAR AWAY 2026 (Indian Railways), featuring multiple agents and a live digital twin to automate structural assessments.
-      <br /><br />
-      <a href="https://github.com/Stormynubee/Bogieflow">Codebase</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>RetainIQ</b><br />
-      <sub>LightGBM &nbsp;&middot;&nbsp; CatBoost &nbsp;&middot;&nbsp; scikit-learn</sub>
-      <br /><br />
-      Churn prediction engine built for IIT Kharagpur's ChurnZero 26. Reached a PR-AUC of 0.9999, saved ~69% in retention costs using rupee-weighted thresholding, and ran a demographic fairness audit.
-      <br /><br />
-      <a href="https://github.com/Stormynubee/retainiq-churnzero-26">Codebase</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>MineHealth</b><br />
-      <sub>React &nbsp;&middot;&nbsp; FastAPI &nbsp;&middot;&nbsp; MongoDB &nbsp;&middot;&nbsp; Gemini AI</sub>
-      <br /><br />
-      Mental health and productivity tracker wrapped in a Minecraft theme. Has symptom logging, a JEE study planner, journals, and a Blocky AI that actually feels like a companion rather than a chatbot.
-      <br /><br />
-      <a href="https://github.com/Stormynubee/MineHealth-Showcase">Codebase</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>BizCatcher</b><br />
-      <sub>Next.js 16 &nbsp;&middot;&nbsp; OSM API &nbsp;&middot;&nbsp; Overpass</sub>
-      <br /><br />
-      Lead generation engine that maps business data from OpenStreetMap. Built with a dark interactive map, tag-based filtering, and fast CSV export.
-      <br /><br />
-      <a href="https://github.com/Stormynubee/BizCatcher">Codebase</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>Psoriasis Companion</b><br />
-      <sub>React 19 &nbsp;&middot;&nbsp; TypeScript &nbsp;&middot;&nbsp; MediaPipe &nbsp;&middot;&nbsp; PWA</sub>
-      <br /><br />
-      Offline-first PWA to track flare-ups for chronic psoriasis. Integrated Aether Hands' computer vision controls so patients with joint pain can navigate hands-free using mid-air gestures.
-      <br /><br />
-      <a href="https://github.com/Stormynubee/psoriasis-companion">Codebase</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>UMANG OS</b><br />
-      <sub>React &nbsp;&middot;&nbsp; OpenCV &nbsp;&middot;&nbsp; Python</sub>
-      <br /><br />
-      An OS concept that reacts to facial expressions. Uses real-time computer vision to detect emotions, allowing a physical desk assistant to adjust the workspace environment accordingly.
-      <br /><br />
-      <a href="https://umangos.vercel.app">Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>Focus OS</b><br />
-      <sub>Next.js &nbsp;&middot;&nbsp; Framer Motion &nbsp;&middot;&nbsp; Tailwind</sub>
-      <br /><br />
-      A high-fidelity focus and accountability dashboard for couples. Built without invasive screenshots or surveillance, featuring shared streaks and a playful cat theme.
-      <br /><br />
-      <a href="https://focuso-main.vercel.app">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <b>AceZen Portal</b><br />
-      <sub>Next.js &nbsp;&middot;&nbsp; Tailwind CSS &nbsp;&middot;&nbsp; Framer Motion</sub>
-      <br /><br />
-      The immersive homepage for AceZen Studio. Built with custom WebGL shaders, grain-filter mood overlays, and interactive light trails, designed to feel more like an art piece than a standard portfolio.
-      <br /><br />
-      <a href="https://acezen.in/">Live Platform</a>
+      <h3>🚂 Bogieflow</h3>
+      <sub>
+        <img src="https://img.shields.io/badge/IoT-FF6B35?style=flat-square&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </sub>
+      <br/><br/>
+      Real-time rail car monitoring system. Sensor data meets cinematic dashboards — where hardware meets UI elegance.
+      <br/><br/>
+      <a href="https://github.com/Stormynubee">
+        <img src="https://img.shields.io/badge/Explore_Profile-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
 
-<br />
+<br/>
 
 ---
 
-<br />
+<!-- GITHUB STATS -->
 
-## GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stormynubee&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&rank_icon=github&card_width=400" height="155" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stormynubee&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=e2e8f0&langs_count=6&card_width=280" height="155" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Stormynubee&theme=transparent&hide_border=true&background=0d0d1a&stroke=302b63&ring=c4b5fd&fire=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a78bfa&excludeDaysLabel=a78bfa" height="150" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Stormynubee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=a5b4fc&icon_color=818cf8&count_private=true&rank_icon=github" width="49%" />
 
-<br />
+<img src="https://github-readme-streak-stats.demolab.com?user=Stormynubee&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=c4b5fd&fire=a78bfa&currStreakLabel=c4b5fd&sideNums=a5b4fc&sideLabels=818cf8&dates=6b7280" width="49%" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stormynubee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c4b5fd&text_color=a5b4fc&langs_count=8" width="40%" />
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stormynubee&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4f46e5&hide_border=true&custom_title=Contribution%20Graph" width="98%" />
+</div>
+
+<br/>
 
 ---
 
-<br />
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stormynubee/Stormynubee/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stormynubee/Stormynubee/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Stormynubee/Stormynubee/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
+<!-- FOOTER WAVE -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:4f46e5,100:7c3aed&height=120&section=footer&animation=twinkling" />
 
 <p align="center">
-  <a href="mailto:priyanktiwari434@gmail.com">priyanktiwari434@gmail.com</a>
-  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/hansraj-tiwari">LinkedIn</a>
-  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-  <a href="https://acezen.in/">AceZen Studio</a>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <sub><i>"The physical world is just another canvas."</i></sub>
+  <i>⚡ "I build things that probably shouldn't work — but they do." — Hansraj</i>
 </p>
