@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 432" width="760" height="432" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" role="img" aria-label="hansraj@arch terminal session">
+<defs>
+  <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0c0b16"/>
+    <stop offset="1" stop-color="#08070f"/>
+  </linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#17152a"/>
+    <stop offset="1" stop-color="#100e1d"/>
+  </linearGradient>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="14"/>
+  </filter>
+  <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+    <rect width="3" height="1" fill="#ffffff" opacity="0.025"/>
+  </pattern>
+  <style>
+    <![CDATA[
+      .line { animation-name: reveal; animation-fill-mode: both; animation-timing-function: steps(34); }
+      .out  { animation-timing-function: steps(46); }
+      @keyframes reveal { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 -2% 0 0); } }
+      .caret { animation: blink 1.05s steps(1) infinite; animation-delay: 6s; }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      text { font-size: 15px; }
+      .p1 { fill: #a78bfa; } .p2 { fill: #60a5fa; } .p3 { fill: #5b5b7a; }
+      .cmd { fill: #e7e7f2; } .mut { fill: #6b6b85; } .dir { fill: #60a5fa; }
+      .hash { fill: #a78bfa; } .ok { fill: #4ade80; } .name { fill: #c4b5fd; }
+    ]]>
+  </style>
+</defs>
+
+<rect x="20" y="22" width="720" height="392" rx="16" fill="#7c3aed" opacity="0.18" filter="url(#glow)"/>
+
+<rect x="10" y="10" width="740" height="412" rx="14" fill="url(#screen)" stroke="#2a2547" stroke-width="1"/>
+
+<path d="M10,24 a14,14 0 0 1 14,-14 h712 a14,14 0 0 1 14,14 v22 h-740 z" fill="url(#bar)"/>
+<line x1="10" y1="46" x2="750" y2="46" stroke="#272240" stroke-width="1"/>
+<circle cx="34" cy="28" r="6" fill="#ff5f57"/>
+<circle cx="56" cy="28" r="6" fill="#febc2e"/>
+<circle cx="78" cy="28" r="6" fill="#28c840"/>
+<text x="380" y="33" text-anchor="middle" class="mut" font-size="13">hansraj@arch — zsh — 80×24</text>
+
+<g>
+  <text class="line" style="animation-duration:.5s;animation-delay:.3s" x="30" y="84">
+    <tspan class="p1">hansraj@arch</tspan><tspan class="p2"> ~ </tspan><tspan class="p3">$</tspan><tspan class="cmd"> whoami</tspan>
+  </text>
+  <text class="line out" style="animation-duration:.3s;animation-delay:.9s" x="30" y="111">
+    <tspan class="mut">hansraj tiwari · 17 · ships things that work at 0 bars</tspan>
+  </text>
+
+  <text class="line" style="animation-duration:.55s;animation-delay:1.4s" x="30" y="138">
+    <tspan class="p1">hansraj@arch</tspan><tspan class="p2"> ~ </tspan><tspan class="p3">$</tspan><tspan class="cmd"> ls ~/projects</tspan>
+  </text>
+  <text class="line out" style="animation-duration:.3s;animation-delay:2.0s" x="30" y="165">
+    <tspan class="dir">margi/</tspan><tspan class="mut">   </tspan><tspan class="dir">bogieflow/</tspan><tspan class="mut">   </tspan><tspan class="dir">acezen-studio/</tspan><tspan class="p3">   +37 more</tspan>
+  </text>
+
+  <text class="line" style="animation-duration:.6s;animation-delay:2.55s" x="30" y="192">
+    <tspan class="p1">hansraj@arch</tspan><tspan class="p2"> ~ </tspan><tspan class="p3">$</tspan><tspan class="cmd"> git log --oneline -3</tspan>
+  </text>
+  <text class="line out" style="animation-duration:.25s;animation-delay:3.25s" x="30" y="219">
+    <tspan class="hash">f1a9c2e</tspan><tspan class="mut">  margi — offline crash triage · IIT-M RoadSoS</tspan>
+  </text>
+  <text class="line out" style="animation-duration:.25s;animation-delay:3.55s" x="30" y="246">
+    <tspan class="hash">7b3e0aa</tspan><tspan class="mut">  bogieflow — realtime rail telemetry</tspan>
+  </text>
+  <text class="line out" style="animation-duration:.25s;animation-delay:3.85s" x="30" y="273">
+    <tspan class="hash">c0de17a</tspan><tspan class="mut">  init — coding since 8, never git reset --hard</tspan>
+  </text>
+
+  <text class="line" style="animation-duration:.55s;animation-delay:4.35s" x="30" y="300">
+    <tspan class="p1">hansraj@arch</tspan><tspan class="p2"> ~ </tspan><tspan class="p3">$</tspan><tspan class="cmd"> sudo ./ship.sh</tspan>
+  </text>
+  <text class="line out" style="animation-duration:.25s;animation-delay:5.0s" x="30" y="327">
+    <tspan class="ok">[ ok ]</tspan><tspan class="mut">  if it compiles, ship it</tspan>
+  </text>
+  <text class="line out" style="animation-duration:.25s;animation-delay:5.3s" x="30" y="354">
+    <tspan class="ok">[ ok ]</tspan><tspan class="mut">  if it doesn't — ship it anyway</tspan>
+  </text>
+
+  <text class="line" style="animation-duration:.3s;animation-delay:5.7s" x="30" y="385">
+    <tspan class="p1">hansraj@arch</tspan><tspan class="p2"> ~ </tspan><tspan class="p3">$</tspan>
+  </text>
+  <rect class="caret" x="186" y="372" width="9" height="17" fill="#a78bfa"/>
+</g>
+
+<rect x="10" y="47" width="740" height="375" fill="url(#scan)" pointer-events="none"/>
+</svg>
