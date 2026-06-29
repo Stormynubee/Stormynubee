@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-label="GitHub stats for Hansraj Tiwari">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c0b16"/>
+      <stop offset="1" stop-color="#0a0814"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="558" height="298" rx="18" fill="url(#bg)" stroke="#2a2547"/>
+  <circle cx="34" cy="38" r="5" fill="#4ade80"/>
+  <text x="50" y="43" font-family="ui-monospace, monospace" font-size="16" font-weight="700" fill="#c4b5fd">Hansraj Tiwari</text>
+  <text x="50" y="62" font-family="ui-monospace, monospace" font-size="12" fill="#6b6b85">@Stormynubee · online</text>
+  <text x="544" y="43" text-anchor="end" font-family="ui-monospace, monospace" font-size="12" fill="#7c3aed">~/stats --live</text>
+  <line x1="28" y1="80" x2="532" y2="80" stroke="#211d3a"/>
+  
+  <g transform="translate(28 96)">
+    <rect width="172" height="78" rx="12" fill="#0f0d1c" stroke="#2a2547"/>
+    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">4</text>
+    <text x="16" y="58" font-family="ui-monospace, monospace" font-size="12" fill="#7c799a" letter-spacing="1.5">FOLLOWERS</text>
+  </g>
+  
+  <g transform="translate(216 96)">
+    <rect width="172" height="78" rx="12" fill="#0f0d1c" stroke="#2a2547"/>
+    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">14</text>
+    <text x="16" y="58" font-family="ui-monospace, monospace" font-size="12" fill="#7c799a" letter-spacing="1.5">TOTAL STARS</text>
+  </g>
+  
+  <g transform="translate(404 96)">
+    <rect width="172" height="78" rx="12" fill="#0f0d1c" stroke="#2a2547"/>
+    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">31</text>
+    <text x="16" y="58" font-family="ui-monospace, monospace" font-size="12" fill="#7c799a" letter-spacing="1.5">REPOS</text>
+  </g>
+  
+  <g transform="translate(28 186)">
+    <rect width="172" height="78" rx="12" fill="#0f0d1c" stroke="#2a2547"/>
+    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">326</text>
+    <text x="16" y="58" font-family="ui-monospace, monospace" font-size="12" fill="#7c799a" letter-spacing="1.5">COMMITS / YR</text>
+  </g>
+  
+  <g transform="translate(216 186)">
+    <rect width="172" height="78" rx="12" fill="#0f0d1c" stroke="#2a2547"/>
+    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">538</text>
+    <text x="16" y="58" font-family="ui-monospace, monospace" font-size="12" fill="#7c799a" letter-spacing="1.5">CONTRIBS / YR</text>
+  </g>
+  
+  <g transform="translate(404 186)">
+    <rect width="172" height="78" rx="12" fill="#0f0d1c" stroke="#2a2547"/>
+    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">1</text>
+    <text x="16" y="58" font-family="ui-monospace, monospace" font-size="12" fill="#7c799a" letter-spacing="1.5">FOLLOWING</text>
+  </g>
+</svg>
