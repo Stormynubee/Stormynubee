@@ -1,15 +1,13 @@
 # File: .github/workflows/stats.yml
-# Free forever. Runs on GitHub's own servers — no Vercel, no hosting bill.
-# It renders stats.svg from your live numbers and commits it back to this repo.
+# Free forever. Runs on GitHub's own servers — no Vercel, no hosting, no second file.
+# This ONE file renders stats.svg from your live numbers and commits it back to the repo.
 
 name: stats-card
 
 on:
-  workflow_dispatch:        # lets you run it by hand from the Actions tab
+  workflow_dispatch:        # run it by hand from the Actions tab
   schedule:
     - cron: "17 */12 * * *" # ...and twice a day on its own
-  push:
-    branches: [main]
 
 permissions:
   contents: write           # so the Action can commit stats.svg back
@@ -19,18 +17,104 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
+
       - name: render stats.svg
-        env:
-          # No setup needed — GitHub hands every Action a free token.
-          # Optional: add a classic PAT (read:user) as secret GH_PAT for the
-          # two contribution tiles, and it'll be used automatically.
-          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
-          GH_USER: Stormynubee
-        run: node scripts/generate-stats.js
-      - name: commit if changed
+        uses: actions/github-script@v7
+        with:
+          # Uses GitHub's built-in token automatically. Want the two contribution
+          # tiles filled in for sure? Add a classic PAT (scope: read:user) as a
+          # repo secret named GH_PAT and it gets picked up right here.
+          github-token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require("node:fs");
+            const USER = context.repo.owner;
+
+            const stats = {
+              name: USER, followers: "—", following: "—",
+              repos: "—", stars: "—", commits: "—", contributions: "—",
+            };
+
+            // Core profile + repos — works with the built-in token.
+            try {
+              const data = await github.graphql(
+                `query ($login: String!) {
+                  user(login: $login) {
+                    name
+                    followers { totalCount }
+                    following { totalCount }
+                    repositories(first: 100, ownerAffiliations: OWNER, isFork: false) {
+                      totalCount
+                      nodes { stargazerCount }
+                    }
+                  }
+                }`,
+                { login: USER }
+              );
+              const u = data.user;
+              stats.name = u.name || USER;
+              stats.followers = u.followers.totalCount;
+              stats.following = u.following.totalCount;
+              stats.repos = u.repositories.totalCount;
+              stats.stars = u.repositories.nodes.reduce((a, n) => a + n.stargazerCount, 0);
+            } catch (err) {
+              core.warning("profile fetch failed: " + err.message);
+            }
+
+            // Contribution counts — best with a PAT, but we never fail the run.
+            try {
+              const data = await github.graphql(
+                `query ($login: String!) {
+                  user(login: $login) {
+                    contributionsCollection {
+                      totalCommitContributions
+                      contributionCalendar { totalContributions }
+                    }
+                  }
+                }`,
+                { login: USER }
+              );
+              const c = data.user.contributionsCollection;
+              stats.commits = c.totalCommitContributions;
+              stats.contributions = c.contributionCalendar.totalContributions;
+            } catch (err) {
+              core.warning("contributions fetch failed: " + err.message);
+            }
+
+            const fmt = (n) =>
+              typeof n === "number" ? n.toLocaleString("en-US") : n;
+
+            const tile = (x, y, value, label) => `
+              <g transform="translate(${x} ${y})">
+                <rect width="172" height="78" rx="12" fill="#0f0d1c" stroke="#2a2547"/>
+                <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">${fmt(value)}</text>
+                <text x="16" y="58" font-family="ui-monospace, monospace" font-size="12" fill="#7c799a" letter-spacing="1.5">${label}</text>
+              </g>`;
+
+            const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-label="GitHub stats for ${stats.name}">
+              <defs>
+                <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+                  <stop offset="0" stop-color="#0c0b16"/>
+                  <stop offset="1" stop-color="#0a0814"/>
+                </linearGradient>
+              </defs>
+              <rect x="1" y="1" width="558" height="298" rx="18" fill="url(#bg)" stroke="#2a2547"/>
+              <circle cx="34" cy="38" r="5" fill="#4ade80"/>
+              <text x="50" y="43" font-family="ui-monospace, monospace" font-size="16" font-weight="700" fill="#c4b5fd">${stats.name}</text>
+              <text x="50" y="62" font-family="ui-monospace, monospace" font-size="12" fill="#6b6b85">@${USER} · online</text>
+              <text x="544" y="43" text-anchor="end" font-family="ui-monospace, monospace" font-size="12" fill="#7c3aed">~/stats --live</text>
+              <line x1="28" y1="80" x2="532" y2="80" stroke="#211d3a"/>
+              ${tile(28, 96, stats.followers, "FOLLOWERS")}
+              ${tile(216, 96, stats.stars, "TOTAL STARS")}
+              ${tile(404, 96, stats.repos, "REPOS")}
+              ${tile(28, 186, stats.commits, "COMMITS / YR")}
+              ${tile(216, 186, stats.contributions, "CONTRIBS / YR")}
+              ${tile(404, 186, stats.following, "FOLLOWING")}
+            </svg>`;
+
+            fs.writeFileSync("stats.svg", svg);
+            core.info("wrote stats.svg");
+
+      - name: commit stats.svg if it changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
