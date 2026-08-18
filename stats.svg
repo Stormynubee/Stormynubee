@@ -26,19 +26,19 @@
   
   <g transform="translate(404 96)">
     <rect width="172" height="78" rx="12" fill="#0f0d1c" stroke="#2a2547"/>
-    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">35</text>
+    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">36</text>
     <text x="16" y="58" font-family="ui-monospace, monospace" font-size="12" fill="#7c799a" letter-spacing="1.5">REPOS</text>
   </g>
   
   <g transform="translate(28 186)">
     <rect width="172" height="78" rx="12" fill="#0f0d1c" stroke="#2a2547"/>
-    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">499</text>
+    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">532</text>
     <text x="16" y="58" font-family="ui-monospace, monospace" font-size="12" fill="#7c799a" letter-spacing="1.5">COMMITS / YR</text>
   </g>
   
   <g transform="translate(216 186)">
     <rect width="172" height="78" rx="12" fill="#0f0d1c" stroke="#2a2547"/>
-    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">858</text>
+    <text x="16" y="36" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#e7e7f2">892</text>
     <text x="16" y="58" font-family="ui-monospace, monospace" font-size="12" fill="#7c799a" letter-spacing="1.5">CONTRIBS / YR</text>
   </g>
   
