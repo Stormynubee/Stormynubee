@@ -1,7 +1,4 @@
-ttps://api.commandcode.ai/provider - anthropic sdk
-open ai sdk - https://api.commandcode.ai/provider/v1
 
-key user_57F3FwfkAa9XagwiUCmWHjYmkpR3cY7mHmvr2JULUdHmgbdT9cLncAvy6aAmCtjmFsGNm6FfRpk8KoKTi8817Kbj
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
